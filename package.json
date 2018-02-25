@@ -1,0 +1,11 @@
+{
+  "name": "auth-gen",
+  "version": "1.0.0",
+  "description": "Crypto-secure id and password generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheWarmFuzzy",
+  "license": "ISC"
+}
