@@ -1,6 +1,6 @@
 {
   "name": "auth-gen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Crypto-secure id and password generator",
   "main": "index.js",
   "author": "TheWarmFuzzy",
