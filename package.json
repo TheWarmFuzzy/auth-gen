@@ -1,18 +1,29 @@
 {
   "name": "auth-gen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Crypto-secure id and password generator",
   "main": "index.js",
   "author": "TheWarmFuzzy",
   "license": "ISC",
-  "bugs":{
-    "url":"https://github.com/TheWarmFuzzy/auth-gen/issues",
+  "bugs": {
+    "url": "https://github.com/TheWarmFuzzy/auth-gen/issues",
     "email": "jt_nelson@rogers.com"
   },
-  "keywords": ["crypto","cryptography","gen","generator","id","unique","password","pwd", "no dependencies", "stand-alone"],
-  "files":[
-   "index.js",
-   "package.json"
+  "keywords": [
+    "crypto",
+    "cryptography",
+    "gen",
+    "generator",
+    "id",
+    "unique",
+    "password",
+    "pwd",
+    "no dependencies",
+    "stand-alone"
+  ],
+  "files": [
+    "index.js",
+    "package.json"
   ],
   "repository": "https://github.com/TheWarmFuzzy/auth-gen"
 }
